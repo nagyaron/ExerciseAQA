@@ -32,4 +32,7 @@ public class BaseTest {
     public void tearDown(){
         driver.quit();
     }
+
+    //just making some modifications
+    //would like to create a method to only use one open browser for all tests
 }
